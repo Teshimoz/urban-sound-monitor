@@ -10,8 +10,7 @@ honking?*
 
 The whole application is one Python file, `noise_events.py`.
 
-> **Status:** working prototype. The code was developed and tested with synthetic audio and a
-> simulated browser; it has not been validated against long-term real-street recordings. Treat
+> **Status:** working prototype. Treat
 > the numbers as relative indicators until you have calibrated the microphone and checked the
 > labels yourself.
 
